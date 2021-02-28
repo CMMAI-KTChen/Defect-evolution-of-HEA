@@ -37,4 +37,6 @@ In the tensile simulation, we fix the upper and lower 27 angstroms of the model 
 ## Simulation snapshots
 Animation of all our simulation runs are shown in this project. You can find animations processed using **Common Neighbor Analysis (CNA)** and our self-developed **Planar Defect Identification (PDI)** algorithm via OVITO. In CNA processed videos, atoms with fcc crystal structure is colored green, bcc crystal structure is colored blue and hcp crystal structure is colored red. Amorphous atoms are excluded in all videos. Each animation is recorded till the model rupture or an amorphous necking formed.
 
+![image](https://github.com/CMMAI-KTChen/Defect-evolution-of-HEA/blob/master/legends_PDI.png)
+
 If you have any question about our project, please contact our email address: dchen@ntu.edu.tw
