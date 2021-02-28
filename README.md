@@ -1,5 +1,8 @@
 # HEA mechanisms
-In this repositiory, we demonstrate the LAMMPS code used in our MD simulations and the snapshot videos for our simulations.
+In this repositiory, we demonstrate the LAMMPS code used in our MD simulations and the snapshot videos for our simulations. You can find our simulation code in the `src` folder.
+The MEAM potential files were work published by Choi et al. 2018.
+
+(W.-M. Choi, Y.H. Jo, S.S. Sohn, S. Lee, and B.-J. Lee (2018), "Understanding the physical metallurgy of the CoCrFeMnNi high-entropy alloy: an atomistic simulation study", npj Computational Materials, 4(1), . DOI: 10.1038/s41524-017-0060-9.)
 
 ## Tensile simulation
 If you wish to run our code, we use the **`lammps-16Mar18`** version of LAMMPS with mpi execution.
